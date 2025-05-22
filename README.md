@@ -1,5 +1,4 @@
-https://storage.googleapis.com/kaggle-datasets-images/39466/61155/11ed21def9dc98bf3d3db08b43885e21/dataset-cover.png?t=2018-08-01-10-52-28
-
+![image](https://github.com/user-attachments/assets/5607a1db-fbc5-408f-954d-ccbcdef62bfb)
 
 ### Project Description:
 
